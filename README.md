@@ -5,5 +5,5 @@
 - Prämisse zum Bestehen war Einhaltung bestimmter Vorgaben
 - Statische Webseite (_nur HTML5 und CSS3_)
 - Ansicht unter: [Blog](https://udacity-blog-project-mb.web.app/index.html)
-  - inlusiver einer Unterseite [Los Angelos](https://udacity-blog-project-mb.web.app/los-angeles.html)
+  - inklusive einer Unterseite [Los Angelos](https://udacity-blog-project-mb.web.app/los-angeles.html)
 
